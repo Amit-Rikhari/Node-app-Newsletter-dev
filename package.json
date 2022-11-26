@@ -1,3 +1,4 @@
+/*
 {
   "name": "newsletter-signup",
   "version": "1.0.0",
@@ -25,4 +26,23 @@
 
   "author": "Amit Rikhari",
   "license": "MIT"
+}
+*/
+
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-deal/aws-elastic-beanstalk-express-js-sample.git t"
+  },
+  "license": "MIT-0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
