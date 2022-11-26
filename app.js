@@ -78,7 +78,7 @@ app.post("/failure",function(req, res){
 
 
 
- app.listen( ${port} || 3000, function(){
+ app.listen( ${port}, function(){
 
 console.log("Server is up at  ${port} ");
 });
