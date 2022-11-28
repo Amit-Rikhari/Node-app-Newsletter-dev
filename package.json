@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
   "main": "app.js",
+  "publishConfig": {
+   "registry": "http://34.227.59.12:8081/repository/Npm-release/"
+  },
   "scripts": {
     "start": "node app.js",
     "sonar": "node sonar-project.js"
