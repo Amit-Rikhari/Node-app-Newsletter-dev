@@ -5,7 +5,7 @@
   "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
     "sonar": "node sonar-project.js"
   },
   "repository": {
