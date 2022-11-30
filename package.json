@@ -5,7 +5,7 @@
   "description": "Sample Node.js (Express) ",
   "main": "app.js",
   "publishConfig": {
-   "registry": "http://34.227.59.12:8081/repository/Npm-release/"
+   "registry": "http://registry.npmjs.org/"
   },
   "scripts": {
     "start": "node app.js",
